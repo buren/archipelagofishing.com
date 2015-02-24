@@ -1,0 +1,15 @@
+# Site settings
+title: Palladium
+header-img: 'img/old_cinema.jpg'
+email: info@example.com
+description: "Palladium description."
+baseurl: "/palladium"
+url: "http://jacobburenstam.com"
+facebook_username:
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
