@@ -57,19 +57,3 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
-
-<!-- video -->
-<script src="{{ "/js/video.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/imagesloaded.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/jquery-ui.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/bigvideo.js " | prepend: site.baseurl }}"></script>
-
-<script>
-    if (location.pathname === '/palladium/') {
-        $(function() {
-            var BV = new $.BigVideo();
-            BV.init();
-            BV.show('img/old_cinema_countdown.mp4');
-        });
-    }
-</script>

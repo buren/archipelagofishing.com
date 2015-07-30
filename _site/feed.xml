@@ -1,63 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Palladium</title>
-    <description>Palladium description.</description>
-    <link>http://jacobburenstam.com/palladium/</link>
-    <atom:link href="http://jacobburenstam.com/palladium/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Feb 2015 08:39:41 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2015 08:39:41 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Strategy</title>
-        <description>&lt;h1 id=&quot;strategy-header&quot;&gt;Strategy header&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;List item 1&lt;/li&gt;
-  &lt;li&gt;List item 2&lt;/li&gt;
-  &lt;li&gt;List item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;another-heading&quot;&gt;Another heading&lt;/h2&gt;
-
-&lt;p&gt;Some regular text. &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Italic text&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Jan 2015 01:00:02 +0100</pubDate>
-        <link>http://jacobburenstam.com/palladium/2015/01/01/strategy/</link>
-        <guid isPermaLink="true">http://jacobburenstam.com/palladium/2015/01/01/strategy/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Background</title>
-        <description>&lt;h1 id=&quot;historybackground-information&quot;&gt;History/background Information&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;List item 1&lt;/li&gt;
-  &lt;li&gt;List item 2&lt;/li&gt;
-  &lt;li&gt;List item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;another-heading&quot;&gt;Another heading&lt;/h2&gt;
-
-&lt;p&gt;Some regular text. &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Italic text&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Jan 2015 01:00:02 +0100</pubDate>
-        <link>http://jacobburenstam.com/palladium/2015/01/01/background/</link>
-        <guid isPermaLink="true">http://jacobburenstam.com/palladium/2015/01/01/background/</guid>
-        
-        
-      </item>
+    <title>Archipelago Fishing</title>
+    <description>Archipelago Fishing</description>
+    <link>http://jacobburenstam.com/archipelagofishing.com/</link>
+    <atom:link href="http://jacobburenstam.com/archipelagofishing.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 30 Jul 2015 12:38:38 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2015 12:38:38 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
   </channel>
 </rss>
